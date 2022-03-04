@@ -2,7 +2,7 @@ package 백준;
 
 import java.util.Scanner;
 import java.util.Arrays;
-public class _1157번_단어공부 {
+public class _1157번_단어공부_완료 {
 	public static void main(String args[]) {
 		Scanner sc= new Scanner(System.in);
 

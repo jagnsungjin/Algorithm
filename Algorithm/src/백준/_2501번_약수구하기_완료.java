@@ -2,7 +2,7 @@ package 백준;
 
 import java.util.*;
 
-public class _2501번_약수구하기 {
+public class _2501번_약수구하기_완료 {
 	public static void main(String args[]) {
 		Scanner sc =new Scanner(System.in);
 		int num = sc.nextInt();

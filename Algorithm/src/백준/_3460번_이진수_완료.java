@@ -2,7 +2,7 @@ package 백준;
 
 import java.util.Scanner;
 
-public class _3460번_이진수 {
+public class _3460번_이진수_완료 {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 
