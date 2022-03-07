@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class _1789번_수들의합_완료 {
+public class _1789번_수들의합_완료2 {
 	public static void main(String args[]) throws IOException {
 		 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	        StringTokenizer st = null;
