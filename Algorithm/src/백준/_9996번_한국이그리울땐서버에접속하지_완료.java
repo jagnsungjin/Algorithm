@@ -10,7 +10,7 @@ public class _9996번_한국이그리울땐서버에접속하지_완료 {
 		
 		for (int i = 0; i < N; i++) {
 			String str = br.readLine();		//검증할 파일 이름
-			//*을 뺀 패턴 문자열보다 검증할 파일 이름 길이가 짧으면 검증이 안됨
+			///*을 뺀 패턴 문자열보다 검증할 파일 이름 길이가 짧으면 검증이 안됨
 			if (pArr[0].length() + pArr[1].length() > str.length()) {
 				System.out.println("NE");
 				continue;
